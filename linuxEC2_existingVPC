@@ -154,7 +154,8 @@
                         "CidrIp": {
                             "Ref": "SSHLocation"
                         }
-                    }
+                  }
+		  }
                 ],
                 "VpcId": {
                     "Ref": "VPCId"
